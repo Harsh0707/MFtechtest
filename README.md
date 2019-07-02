@@ -1,11 +1,12 @@
 # MFtechtest
 
 IAM users are deployed for each environment usign Terraform Workspaces i.e 
+
 `terraform workspace new "name of env i.e dev,qa,test,prod,uat`
 
 once the workspace is created select the enb the users need to be created.
 
-`terarform workspace select "name of env i.e dev,qa,test,prod,uat"
+`terarform workspace select "name of env i.e dev,qa,test,prod,uat"`
 
 IAM users are created globally currently in a sinlge AWS account/
 
