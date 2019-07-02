@@ -18,5 +18,5 @@ Steps:
 
 `terraform apply`.
 
-The aws cli configuration can be achieved either exporting the access and secret key or by passing IAM arn.
+The aws cli configuration can be passed either by exporting the access and secret key or by passing IAM arn.
 
