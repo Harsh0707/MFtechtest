@@ -12,9 +12,9 @@ IAM users are created globally currently in a sinlge AWS account/
 
 Steps:
 - once the env is selected using workspace, run 
-terraform init
-terraform plan
-terraform apply.
+`terraform init`
+`terraform plan`
+`terraform apply`.
 
 The aws cli configuration can be achieved either exporting the access and secret key or by passing IAM arn.
 
